@@ -2,7 +2,7 @@
 
 This Repository was created to track and store information on my understanding of modern Javascript.
 
-a FEW NOTES ARE NEEDED ON HOW THIS SECTION IS ORGANIZED.
+<strong>A FEW NOTES ARE NEEDED ON HOW THIS SECTION IS ORGANIZED.</strong>
 
 A numbered file ex: 08 <filename> simply refers to a file on basic theory.
 
