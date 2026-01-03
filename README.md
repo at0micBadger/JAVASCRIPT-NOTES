@@ -4,5 +4,7 @@
 
 OO  Javascript Introduction
 01  Environments
+02  Javascript Syntax
+03  let-const-var
 
 
