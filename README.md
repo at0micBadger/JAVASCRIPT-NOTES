@@ -27,6 +27,8 @@
 18  Arrow Functions<br>
 19  String Methods<br>
 20  Arrays<br>
+20A arrayPractice.js<br>
+20B arrayMethods.js<br>
 
 
 
