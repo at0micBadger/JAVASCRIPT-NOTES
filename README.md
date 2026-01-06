@@ -25,6 +25,8 @@
 16  Return Values<br>
 17  Scope<br>
 18  Arrow Functions<br>
+19  String Methods<br>
+20  Arrays<br>
 
 
 
